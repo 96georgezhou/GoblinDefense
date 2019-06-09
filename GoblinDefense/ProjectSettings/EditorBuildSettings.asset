@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Start.unity
+    guid: 0063997f19353b14b9ecd0783aa55658
+  - enabled: 1
+    path: Assets/_Scenes/BetaPlaytes Canvas_Grid.unity
+    guid: 0a8491a11395e7947858bd83d6c17530
+  - enabled: 1
+    path: Assets/_Scenes/GameOver.unity
+    guid: 6350c8fef65607c4686ce2b40114fbe0
+  - enabled: 1
+    path: Assets/_Scenes/ScoreBoard.unity
+    guid: 43573ba2fcc74be4d8cc5bdec5748fbc
+  - enabled: 1
+    path: Assets/_Scenes/Tutorial.unity
+    guid: 0d6dac09f9f761b4498b3b8b1a41c10c
